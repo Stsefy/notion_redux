@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: rgba(17, 17, 197, 0.26);
+}

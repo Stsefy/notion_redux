@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "fbfb",
+      "email": "user@gmail.com",
+      "password": "passwnfjnkjvnhbf879GHHSHCHBu8u",
+      "createdDate": 1732217173356
+    },
+    {
+      "id": "b58b",
+      "email": "user2@gmail.com",
+      "password": "^Fqek!JU8a5@nv+",
+      "createdDate": 1732308261566
+    },
+    {
+      "id": "a791",
+      "email": "bhjdhkhbjd@jk.vo",
+      "password": "oooooooooooo1H",
+      "createdDate": 1732308506192
+    }
+  ],
+  "notes": [
+    {
+      "id": "0a2d",
+      "title": "Text of note 2",
+      "description": "const handleTitleChange = (e) => {\n    setError('');\n    setTitle(e.target.value);\n  };",
+      "createdDate": 1732305614651,
+      "userName": "user@gmail.com"
+    },
+    {
+      "id": "d9d0",
+      "title": "123",
+      "description": "",
+      "createdDate": 1732308512819,
+      "userName": "bhjdhkhbjd@jk.vo"
+    },
+    {
+      "id": "44db",
+      "title": "4446",
+      "description": "",
+      "createdDate": 1733249218342,
+      "userName": "user@gmail.com"
+    },
+    {
+      "id": "6174",
+      "title": "777",
+      "description": "",
+      "createdDate": 1733249224850,
+      "userName": "user@gmail.com"
+    },
+    {
+      "id": "356f",
+      "title": "666",
+      "description": "",
+      "createdDate": 1733249428962,
+      "userName": "user2@gmail.com"
+    }
+  ]
+}
